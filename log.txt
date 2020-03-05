@@ -1,0 +1,21 @@
+[I 03:56:55.636 NotebookApp] Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 03:56:55.731 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 03:56:55.796 NotebookApp] Serving notebooks from local directory: /notebooks
+[I 03:56:55.796 NotebookApp] 0 active kernels 
+[I 03:56:55.796 NotebookApp] The Jupyter Notebook is running at: http://[all ip addresses on your system]:8888/?token=246dc580eba87f59e838f345e142ee91e9a921f45890852a
+[I 03:56:55.796 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 03:56:55.797 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=246dc580eba87f59e838f345e142ee91e9a921f45890852a
+[I 03:58:10.701 NotebookApp] 302 GET / (192.168.100.6) 1.06ms
+[I 03:58:10.724 NotebookApp] 302 GET /tree? (192.168.100.6) 1.41ms
+[I 03:58:46.635 NotebookApp] 302 POST /login?next=%2Ftree%3F (192.168.100.6) 16.00ms
+[I 03:59:11.679 NotebookApp] Creating new notebook in 
+[I 03:59:11.702 NotebookApp] Writing notebook-signing key to /root/.local/share/jupyter/notebook_secret
+[I 03:59:17.070 NotebookApp] Kernel started: 9ba46448-2fb2-4b00-a2b4-f31991ba3c39
+[W 03:59:19.811 NotebookApp] Notebook simulation/constant_pacing[Control&Ina, 20190515].ipynb is not trusted
+[I 03:59:20.328 NotebookApp] Kernel started: 2663fefa-d933-4879-8a3d-bdda9439c569
+[I 03:59:40.237 NotebookApp] Saving file at /simulation/constant_pacing[Control&Ina, 20190515].ipynb
+[I 04:01:17.080 NotebookApp] Saving file at /Untitled5.ipynb
